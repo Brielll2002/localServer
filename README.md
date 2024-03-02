@@ -1,0 +1,1 @@
+- Servidor, utilizando a rede local.
