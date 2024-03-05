@@ -1,6 +1,6 @@
 const http = require('node:http')
 
-const hostname = ''//COLOCAR IP DA MAQUINA
+const hostname = ''//COLOCAR IPv4
 const port = 3100
 
 const server = http.createServer((req, res)=>{
